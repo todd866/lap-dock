@@ -1,0 +1,64 @@
++-o AppleSmartBattery  <class AppleSmartBattery, id 0x1000008c7, registered, matched, active, busy 0 (9 ms), retain 9>
+  | {
+  |   "TimeRemaining" = 65535
+  |   "ExternalConnected" = Yes
+  |   "ChargerCount" = 1
+  |   "AvgTimeToEmpty" = 294
+  |   "PowerDistribution" = {"IPDWattageOverride"=30000,"IPDInputPower"=7125,"IPDInputCurrent"=1500,"IPDChargingAllowed"=1,"IPDRatio"=100,"IPDRatioOverride"=255,"IPDInputVoltage"=4750}
+  |   "AdapterDetails" = {"IsWireless"=No,"AdapterID"=10,"AdapterVoltage"=5000,"FamilyCode"=18446744073172697096,"AdapterPowerTier"=1,"Watts"=8,"UsbHvcHvcIndex"=255,"Current"=1500,"PMUConfiguration"=1500,"UsbHvcMenu"=(),"Description"="usb brick"}
+  |   "ExternalChargeCapable" = Yes
+  |   "BootVoltage" = 0
+  |   "FullPathUpdated" = 1794646075
+  |   "AppleRawExternalConnected" = Yes
+  |   "Voltage" = 12231
+  |   "PowerTelemetryData" = {"AccumulatedWallEnergyEstimate"=38850448,"SystemEnergyConsumed"=2004,"SystemPowerInAccumulatorCount"=9241,"AdapterEfficiencyLoss"=466,"SystemLoad"=21929,"AccumulatedSystemLoad"=136925294,"AccumulatedSystemEnergyConsumed"=33980170,"SystemCurrentIn"=1422,"WallEnergyEstimate"=2470,"AccumSystemEffectiveTotalLoadCount"=0,"SystemLoadAccumulatorCount"=9285,"AdapterEfficiencyLossAccumulatorCount"=9241,"AccumSystemEffectiveTotalLoad"=0,"SystemVoltageIn"=5071,"SystemPowerIn"=7216,"AccumulatedBatteryPower"=19687319,"PowerTelemetryErrorCount"=0,"AccumulatedAdapterEfficiencyLoss"=4870563,"SystemEffectiveTotalLoad"=0,"BatteryPowerAccumulatorCount"=2419,"AccumulatedSystemPowerIn"=122344128,"BatteryPower"=18446744073709536903,"AccumulatedBatteryDischarge"=18446744073675283131,"BatteryDischargeAccumulatorCount"=4294}
+  |   "BatteryInvalidWakeSeconds" = 30
+  |   "AdapterInfo" = 0
+  |   "MaxCapacity" = 100
+  |   "BatteryShutdownReason" = {"ShutDownTimestamp"=0,"ShutDownUpoReboot"=0}
+  |   "DeadBatteryBootData" = {"ActivePayloads"=0}
+  |   "UpdateTime" = 1794646075
+  |   "built-in" = Yes
+  |   "Location" = 0
+  |   "CurrentCapacity" = 78
+  |   "AppleRawAdapterDetails" = ({"IsWireless"=No,"AdapterID"=10,"AdapterVoltage"=5000,"FamilyCode"=18446744073172697096,"AdapterPowerTier"=1,"Watts"=8,"UsbHvcHvcIndex"=255,"Current"=1500,"PMUConfiguration"=1500,"UsbHvcMenu"=(),"Description"="usb brick"})
+  |   "BatteryInstalled" = Yes
+  |   "PortControllerInfo" = ({"PortControllerLoserReason"=1,"PortControllerEvtBuffer"=<000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000>,"PortControllerIrqCntWakeAck"=67,"PortControllerSlpWakIsSleepEnabled"=0,"PortControllerI2cErrCount"=0,"PortControllerIrqCntStsUpd"=0,"PortControllerFwVersion"=3211776,"PortControllerSlpWakDisTime"=0,"PortControllerIrqCntConSrc"=0,"PortControllerSrdyCount"=0,"PortControllerIrqCntUsb2Plg"=0,"PortControllerPowerState"=255,"PortControllerFetStatus"=0,"PortControllerSurpriseNackCount"=0,"PortControllerPDst"=0,"PortControllerIrqCntldcm"=0,"PortControllerActiveContractRdo"=0,"PortControllerIrqCntAlert"=0,"PortControllerPortPDO"=(0,0,0,0,0,0,0,0,0,0,0,0,0),"PortControllerSurpriseAckCount"=0,"PortControllerWakeFailCount"=0,"PortControllerSleepCmdFailCount"=0,"PortControllerWakeCmdFailCount"=0,"PortControllerStuckCmdCount"=0,"PortControllerBootFlags"=0,"PortControllerNPDOs"=0,"PortControllerDetachCount"=0,"PortControllerIrqCntHrdRst"=0,"PortControllerAttachCount"=0,"PortControllerDataRoleSwapFailCount"=0,"PortControllerIrqCntUvdmStsUpd"=0,"PortControllerHvEnRecoveryCount"=0,"PortControllerIrqCntRxSrcCap"=0,"PortControllerIrqCntPdStsUpd"=0,"PortControllerSlpWakDisCause"=0,"PortControllerIrqCntUvdmEnum"=0,"PortControllerIrqCntAppLd"=0,"PortControllerUvdmStatus"=0,"PortControllerSrdoCount"=0,"PortControllerDnSt"=0,"PortControllerVdoFailCount"=0,"PortControllerInpFetEnFailCount"=0,"PortControllerIrqCntUsb2Wak"=0,"PortControllerIrqCntRxIdSop"=0,"PortControllerPwrRoleSwapCount"=0,"PortControllerHardResetCount"=0,"PortControllerSrcTypes"=0,"PortControllerNEprPDOs"=0,"PortControllerIrqCntPwrStsUpd"=0,"PortControllerShortDetectCount"=0,"PortControllerSrdoRejectCount"=0,"PortControllerDataRoleSwapCount"=0,"PortControllerWakeTimeoutCount"=0,"PortControllerIrqCntRxRdo"=0,"PortControllerPwrRoleSwapFailCount"=0,"PortControllerIrqCntRxSnkCap"=0,"PortControllerCapMismatch"=0,"PortControllerMaxPower"=0,"PortControllerPortMode"=2,"PortControllerElectionFailReason"=0,"PortControllerSrdoRetryCount"=0,"PortControllerSrdyRejectCount"=0,"PortControllerIrqCntPlg"=0},{"PortControllerLoserReason"=0,"PortControllerEvtBuffer"=<3fd15f1a0030015ff203f004f1011a303f014840015f5e005f03021a023f025f03011a013f0340005ff1011a303fd15f1a0030035ff203f014f1011a303f014840015f5e005f03021a023f025f03011a0340005ff80003021a033f025ff80003011a013f015ff1011a303fd15f0240005f5f5e005f025f02>,"PortControllerIrqCntWakeAck"=66,"PortControllerSlpWakIsSleepEnabled"=1,"PortControllerI2cErrCount"=0,"PortControllerIrqCntStsUpd"=25,"PortControllerFwVersion"=3211776,"PortControllerSlpWakDisTime"=0,"PortControllerIrqCntConSrc"=0,"PortControllerSrdyCount"=7,"PortControllerIrqCntUsb2Plg"=0,"PortControllerPowerState"=255,"PortControllerFetStatus"=12,"PortControllerSurpriseNackCount"=0,"PortControllerPDst"=0,"PortControllerIrqCntldcm"=0,"PortControllerActiveContractRdo"=931391738,"PortControllerIrqCntAlert"=0,"PortControllerPortPDO"=(167874860,184620,246010,18446744072650240572,0,0,0,0,0,0,0,0,0),"PortControllerSurpriseAckCount"=0,"PortControllerWakeFailCount"=0,"PortControllerSleepCmdFailCount"=0,"PortControllerWakeCmdFailCount"=0,"PortControllerStuckCmdCount"=0,"PortControllerBootFlags"=0,"PortControllerNPDOs"=3,"PortControllerDetachCount"=4,"PortControllerIrqCntHrdRst"=3,"PortControllerAttachCount"=5,"PortControllerDataRoleSwapFailCount"=0,"PortControllerIrqCntUvdmStsUpd"=24,"PortControllerHvEnRecoveryCount"=0,"PortControllerIrqCntRxSrcCap"=3,"PortControllerIrqCntPdStsUpd"=11,"PortControllerSlpWakDisCause"=0,"PortControllerIrqCntUvdmEnum"=4,"PortControllerIrqCntAppLd"=1,"PortControllerUvdmStatus"=0,"PortControllerSrdoCount"=3,"PortControllerDnSt"=17,"PortControllerVdoFailCount"=0,"PortControllerInpFetEnFailCount"=0,"PortControllerIrqCntUsb2Wak"=0,"PortControllerIrqCntRxIdSop"=3,"PortControllerPwrRoleSwapCount"=0,"PortControllerHardResetCount"=3,"PortControllerSrcTypes"=6,"PortControllerNEprPDOs"=0,"PortControllerIrqCntPwrStsUpd"=15,"PortControllerShortDetectCount"=0,"PortControllerSrdoRejectCount"=0,"PortControllerDataRoleSwapCount"=0,"PortControllerWakeTimeoutCount"=0,"PortControllerIrqCntRxRdo"=0,"PortControllerPwrRoleSwapFailCount"=0,"PortControllerIrqCntRxSnkCap"=0,"PortControllerCapMismatch"=0,"PortControllerMaxPower"=7125,"PortControllerPortMode"=2,"PortControllerElectionFailReason"=0,"PortControllerSrdoRetryCount"=0,"PortControllerSrdyRejectCount"=1,"PortControllerIrqCntPlg"=9},{"PortControllerLoserReason"=1,"PortControllerEvtBuffer"=<0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000f023f01bf023f01bf023>,"PortControllerIrqCntWakeAck"=67,"PortControllerSlpWakIsSleepEnabled"=0,"PortControllerI2cErrCount"=0,"PortControllerIrqCntStsUpd"=0,"PortControllerFwVersion"=3211776,"PortControllerSlpWakDisTime"=0,"PortControllerIrqCntConSrc"=0,"PortControllerSrdyCount"=0,"PortControllerIrqCntUsb2Plg"=0,"PortControllerPowerState"=255,"PortControllerFetStatus"=0,"PortControllerSurpriseNackCount"=0,"PortControllerPDst"=0,"PortControllerIrqCntldcm"=0,"PortControllerActiveContractRdo"=0,"PortControllerIrqCntAlert"=0,"PortControllerPortPDO"=(0,0,0,0,0,0,0,0,0,0,0,0,0),"PortControllerSurpriseAckCount"=0,"PortControllerWakeFailCount"=0,"PortControllerSleepCmdFailCount"=0,"PortControllerWakeCmdFailCount"=0,"PortControllerStuckCmdCount"=0,"PortControllerBootFlags"=0,"PortControllerNPDOs"=0,"PortControllerDetachCount"=0,"PortControllerIrqCntHrdRst"=0,"PortControllerAttachCount"=0,"PortControllerDataRoleSwapFailCount"=0,"PortControllerIrqCntUvdmStsUpd"=0,"PortControllerHvEnRecoveryCount"=0,"PortControllerIrqCntRxSrcCap"=0,"PortControllerIrqCntPdStsUpd"=0,"PortControllerSlpWakDisCause"=0,"PortControllerIrqCntUvdmEnum"=0,"PortControllerIrqCntAppLd"=0,"PortControllerUvdmStatus"=0,"PortControllerSrdoCount"=0,"PortControllerDnSt"=0,"PortControllerVdoFailCount"=0,"PortControllerInpFetEnFailCount"=0,"PortControllerIrqCntUsb2Wak"=0,"PortControllerIrqCntRxIdSop"=0,"PortControllerPwrRoleSwapCount"=0,"PortControllerHardResetCount"=0,"PortControllerSrcTypes"=0,"PortControllerNEprPDOs"=0,"PortControllerIrqCntPwrStsUpd"=0,"PortControllerShortDetectCount"=0,"PortControllerSrdoRejectCount"=0,"PortControllerDataRoleSwapCount"=0,"PortControllerWakeTimeoutCount"=0,"PortControllerIrqCntRxRdo"=0,"PortControllerPwrRoleSwapFailCount"=0,"PortControllerIrqCntRxSnkCap"=0,"PortControllerCapMismatch"=0,"PortControllerMaxPower"=0,"PortControllerPortMode"=2,"PortControllerElectionFailReason"=0,"PortControllerSrdoRetryCount"=0,"PortControllerSrdyRejectCount"=0,"PortControllerIrqCntPlg"=0})
+  |   "CycleCount" = 142
+  |   "ChargerData" = {"NotChargingReason"=0,"SlowChargingReason"=0,"PMUConfigured"=1424,"PMUConfiguration"=1500,"TimeChargingThermallyLimited"=0,"IsCharging"=1}
+  |   "ChargerConfiguration" = 1424
+  |   "BatteryData" = {"CurrentCapacity"=78,"AppleRawMaxCapacity"=4295,"AppleRawCurrentCapacity"=3168,"AbsoluteCapacity"=0,"AvgTimeToEmpty"=294,"DesignCapacity"=4629,"NominalChargeCapacity"=4422,"FullChargeCapacity"=4295,"MaxCapacity"=100,"FullyCharged"=0,"RemainingCapacity"=3168,"BatteryPower"=18446744073709536903,"TrueRemainingCapacity"=0}
+  |   "AvgTimeToFull" = 65535
+  |   "AtCriticalLevel" = No
+  |   "BestAdapterIndex" = 0
+  |   "BootPathUpdated" = 1794636900
+  |   "SkipperNEIgnoreAtCritical" = No
+  |   "PostDischargeWaitSeconds" = 120
+  |   "Serial" = "REDACTED"
+  |   "FedDetails" = ({"FedStateOfCharge"=0,"FedPortPowerRole"=0,"FedProductID"=0,"FedDesignCapacity"=0,"FedPdSpecRevision"=0,"FedSnkConfReason"=0,"FedVendorID"=0,"FedExternalConnected"=0,"FedDualRolePower"=0,"FedRemainingCapacity"=0,"FedPwrPolicySt"=0,"FedSrcConfReason"=0},{"FedStateOfCharge"=0,"FedPortPowerRole"=0,"FedProductID"=0,"FedDesignCapacity"=0,"FedPdSpecRevision"=0,"FedSnkConfReason"=0,"FedVendorID"=0,"FedExternalConnected"=1,"FedDualRolePower"=0,"FedRemainingCapacity"=0,"FedPwrPolicySt"=0,"FedSrcConfReason"=0},{"FedStateOfCharge"=0,"FedPortPowerRole"=0,"FedProductID"=0,"FedDesignCapacity"=0,"FedPdSpecRevision"=0,"FedSnkConfReason"=0,"FedVendorID"=0,"FedExternalConnected"=0,"FedDualRolePower"=0,"FedRemainingCapacity"=0,"FedPwrPolicySt"=0,"FedSrcConfReason"=0})
+  |   "UserVisiblePathUpdated" = 1794646015
+  |   "IOReportLegendPublic" = Yes
+  |   "InstantAmperage" = 18446744073709550413
+  |   "ManufacturerData" = <000000000b000100551d00000433353133033030410341544c00210000000000>
+  |   "FullyCharged" = No
+  |   "DeviceName" = "bq40z651"
+  |   "AppleRawBatteryVoltage" = 12231
+  |   "IOGeneralInterest" = "IOCommand is not serializable"
+  |   "IOReportLegend" = ({"IOReportChannels"=((7167869599145487988,6460407809,"BatteryCycleCount")),"IOReportGroupName"="Battery","IOReportChannelInfo"={"IOReportChannelUnit"=0}})
+  |   "Amperage" = 18446744073709550413
+  |   "IsCharging" = Yes
+  |   "DesignCycleCount9C" = 1000
+  |   "PostChargeWaitSeconds" = 120
+  |   "BatteryPackCount" = 1
+  | }
+  | 
+  +-o AppleSmartBatteryPack  <class AppleSmartBatteryPack, id 0x1000008ce, registered, matched, active, busy 0 (1 ms), retain 9>
+  | +-o AppleSmartBatteryBank  <class AppleSmartBatteryBank, id 0x1000008d2, registered, matched, active, busy 0 (1 ms), retain 7>
+  | | +-o AppleSmartBatteryCell  <class AppleSmartBatteryCell, id 0x1000008d4, registered, matched, active, busy 0 (1 ms), retain 6>
+  | +-o AppleSmartBatteryBank  <class AppleSmartBatteryBank, id 0x1000008d5, registered, matched, active, busy 0 (0 ms), retain 7>
+  | | +-o AppleSmartBatteryCell  <class AppleSmartBatteryCell, id 0x1000008d8, registered, matched, active, busy 0 (0 ms), retain 6>
+  | +-o AppleSmartBatteryBank  <class AppleSmartBatteryBank, id 0x1000008d9, registered, matched, active, busy 0 (0 ms), retain 8>
+  |   +-o AppleSmartBatteryCell  <class AppleSmartBatteryCell, id 0x1000008db, registered, matched, active, busy 0 (0 ms), retain 6>
+  |   +-o AppleSmartBatteryCell  <class AppleSmartBatteryCell, id 0x1000008dd, registered, matched, active, busy 0 (0 ms), retain 6>
+  +-o AppleChargerData  <class AppleChargerData, id 0x1000008e6, registered, matched, active, busy 0 (0 ms), retain 6>
+
